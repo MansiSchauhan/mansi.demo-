@@ -1,0 +1,16 @@
+div{
+    height: 100px;
+    width: 100px;
+    margin: 15px ;
+    background-color: red;
+    /*transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: steps(ease-in);*/
+    
+}
+div:hover{
+    background-color: rgb(20, 220, 80);
+    color: paleturquoise;
+    font-size: 20px;
+
+}
