@@ -1,0 +1,8 @@
+body{
+    background-image: url(backg.png);
+    background-size: cover;
+}
+#btn1{
+    background-color: aqua;
+    
+}
